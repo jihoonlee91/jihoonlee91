@@ -1,10 +1,18 @@
 # Jihoon Lee (이지훈)
 
-AI/ML engineer and aerospace-control researcher. Ph.D. in Aerospace Engineering (Seoul National University); 12+ years across autonomous systems, control, and applied machine learning, now building production AI systems for semiconductor manufacturing.
+AI/ML engineer and aerospace-control researcher. Ph.D. in Aerospace Engineering (Seoul National University). My work is reliable decision-making for complex physical systems — first flight control for morphing UAVs, now agent-based AI systems for semiconductor process development.
 
 ## Research
 
-40+ peer-reviewed publications on morphing-aircraft control, UAV carrier landing, and search-and-rescue path planning — including work in *IEEE Transactions on Aerospace and Electronic Systems*, *IEEE Access*, and *Sensors*. The full list is on my [homepage](https://jihoonlee91.github.io/publications.html).
+40+ publications (journals and conferences) on morphing-aircraft control, UAV carrier landing, and search-and-rescue path planning — including *IEEE Transactions on Aerospace and Electronic Systems*, *IEEE Access*, and *Sensors*. 230+ citations, h-index 8 ([Google Scholar](https://scholar.google.co.kr/citations?user=vNY8rPEAAAAJ)). The full list is on my [homepage](https://jihoonlee91.github.io/publications.html).
+
+## Research code
+
+- [morphing-dl-gain-scheduler](https://github.com/jihoonlee91/morphing-dl-gain-scheduler) — neural gain scheduling trained through a differentiable LPV simulator (JKSAS 2024)
+- [gtm-lpv-control](https://github.com/jihoonlee91/gtm-lpv-control) — LPV autopilot for a variable span-sweep morphing aircraft (AIAA SciTech 2019)
+- [morphing-hinf-control-learning](https://github.com/jihoonlee91/morphing-hinf-control-learning) — H∞ synthesis across morphing configurations, as data for learned controller tuning
+- [gtm-morphing-sim](https://github.com/jihoonlee91/gtm-morphing-sim) — morphing extension of NASA's GTM_DesignSim, the shared simulation base
+- [morphing-flight-control-doc](https://github.com/jihoonlee91/morphing-flight-control-doc) — flight control design (LQR, NDI) for a morphing-wing UAV
 
 ## Interests
 
