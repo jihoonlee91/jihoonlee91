@@ -18,7 +18,7 @@
 
 - **Production ML for memory semiconductor engineering** — predictive and optimization models that hold up under tool-to-tool variation, drift, measurement noise, and scarce experimental data.
 - **Forward-deployed with process & equipment engineers** — turning ambiguous engineering questions into deployable, model-based tools, with validation reports that state where a model can and cannot be trusted.
-- **Agent-based AI for process development** — LLM agents with retrieval, tool calling, and the Model Context Protocol, traced and evaluated in production.
+- **Agent-based AI for process development** — LLM agents with retrieval, tool calling, and the Model Context Protocol on self-hosted LLMs served from GPU supercomputing infrastructure, traced and evaluated in production.
 
 ### 🛩️ Before
 
@@ -41,12 +41,16 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-LLM%20serving-30A2FF?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-LLM%20gateway-0F172A?style=flat-square)
 ![LLM agents](https://img.shields.io/badge/LLM%20agents-RAG%20·%20tools%20·%20MCP-6E56CF?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### 💡 Interests
 
-Decision-making under uncertainty · LPV / robust control · reinforcement learning for control · LLM agents for engineering work
+Decision-making under uncertainty · LPV / robust control · reinforcement learning for control · LLM agents for engineering work · multi-agent orchestration and agent memory
 
 <sub>Most of my day-to-day work lives in company repositories. Publications, CV, and contact are on my [homepage](https://jihoonlee91.github.io/).</sub>
