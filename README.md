@@ -36,7 +36,7 @@ Ph.D. in Aerospace Engineering (flight control), Seoul National University
 
 - [Sliding mode guidance and control for UAV carrier landing](https://jihoonlee91.github.io/papers/2018-sliding-mode-uav-carrier-landing.html) — *IEEE Transactions on Aerospace and Electronic Systems*, 2019
 - [Control design using policy-gradient-based integral reinforcement learning and extended state observer for morphing aircraft](https://jihoonlee91.github.io/papers/2024-policy-gradient-irl-eso-morphing.html) — *IEEE Transactions on Aerospace and Electronic Systems*, 2024
-- [Self-scheduled LPV control of asymmetric variable-span morphing UAV](https://jihoonlee91.github.io/papers/2023-self-scheduled-lpv-asymmetric-morphing-uav.html) — *Sensors*, 2023 · [code](https://github.com/jihoonlee91/gtm-lpv-control)
+- [Self-scheduled LPV control of asymmetric variable-span morphing UAV](https://jihoonlee91.github.io/papers/2023-self-scheduled-lpv-asymmetric-morphing-uav.html) — *Sensors*, 2023 · [code](https://github.com/jihoonlee91/morphing-uav-lpv-control)
 - [Multi-level indoor path planning and clearance-based path optimization for search and rescue operations](https://jihoonlee91.github.io/papers/2023-indoor-path-planning-search-rescue.html) — *IEEE Access*, 2023
 - [Neural network-based nonlinear dynamic inversion control of variable-span morphing aircraft](https://jihoonlee91.github.io/papers/2020-nn-nonlinear-dynamic-inversion-morphing.html) — *Proc. IMechE Part G*, 2020
 
