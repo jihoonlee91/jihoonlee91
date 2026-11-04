@@ -1,0 +1,28 @@
+name: Latest posts
+
+# Keeps the profile README's "Latest writing" list in step with the blog at
+# https://jihoonlee91.github.io/blog.html (Atom feed: /feed.xml).
+on:
+  schedule:
+    - cron: "17 21 * * *"   # daily, 06:17 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - run: python .github/scripts/update_posts.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Latest writing: refresh from the blog feed"
+          git push
