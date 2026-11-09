@@ -30,7 +30,7 @@ Ph.D. in Aerospace Engineering (flight control), Seoul National University
 ### 🛩️ Before
 
 - Ph.D. at the SNU Flight Dynamics and Control Lab — morphing-aircraft modeling and LPV / robust control, autonomous carrier landing, search-and-rescue path planning.
-- 43 publications, including *IEEE Transactions on Aerospace and Electronic Systems* (×2), *IEEE Access*, and *Sensors* — 230+ citations, h-index 9.
+- 43 publications, including *IEEE Transactions on Aerospace and Electronic Systems* (×2), *IEEE Access*, and *Sensors* — 230+ citations, h-index 8.
 
 ### 📄 Selected publications
 
